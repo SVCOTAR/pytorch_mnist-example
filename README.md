@@ -1,7 +1,7 @@
 # pytorch_mnist-example
 
 本文档为基于pytorch的mnist的example，开启了gpu 加速。
-1.环境配置
+
 # 1. 创建一个干净环境
 conda create -n pytorchenv python=3.10 -y
 # 2. 进入这个环境
