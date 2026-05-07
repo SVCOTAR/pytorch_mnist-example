@@ -33,5 +33,5 @@ log如下：
 结果如下：
 <img width="1086" height="588" alt="image" src="https://github.com/user-attachments/assets/fe92c2b9-2e82-4dac-a8c2-75b05d5cf0ba" />
 
-#4 调优
+# 4 调优
 可以作为base代码，对代码中的神经网络的各个参数进行调整，运行查看结果，来理解基于pytorch的神经网络框架。
